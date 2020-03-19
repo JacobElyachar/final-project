@@ -1,0 +1,60 @@
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 320px;
+}
+
+.center {
+  text-align: center;
+}
+.bgcolor {
+  background-color: #fff8dc;
+}
+
+.paddingtop {
+  padding-top: 4rem;
+}
+
+.row {
+  display: flex;
+  flex-direction: row;
+}
+
+.column {
+  display: flex;
+  flex-direction: column;
+  width: 50%;
+  padding-left: 1rem;
+  padding-right: 1rem;
+}
+
+.headover {
+  margin-top: 40px;
+  margin-bottom: -20px;
+}
+.bold {
+  font-weight: bold;
+}
+#section4 {
+  padding-top: 4rem;
+}
+
+#section5 {
+  padding-top: 4ßrem;
+}
+
+.socialmedia {
+  width: 30%;
+}
+.footerlinks {
+  display: flex;
+  flex-direction: row;
+}
+.social {
+  list-style-type: none;
+}
+.tweet,
+.insta {
+  width: 60%;
+}
