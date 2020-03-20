@@ -41,20 +41,24 @@
 }
 
 #section5 {
-  padding-top: 4ßrem;
+  padding-top: 4rem;
 }
 
-.socialmedia {
-  width: 30%;
-}
 .footerlinks {
   display: flex;
   flex-direction: row;
 }
+footer {
+  margin-top: 30px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
 .social {
   list-style-type: none;
 }
-.tweet,
-.insta {
-  width: 60%;
+.social a img {
+  width: 20px;
+  height: 20px;
+  margin: 0 5px;
 }
